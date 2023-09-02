@@ -1,6 +1,13 @@
-# idk a name for this yet
+# ByteQuest
 
 This is a coding problem website (kinda like leetcode).  
 This is for the ncea level 2 website assessment as91893 and also maybe level 2 database assessment as91892.  
 
 ![](https://raw.githubusercontent.com/haventthoughtofanameyet/.github/master/profile/assets/Architecture.png)
+
+## Context Behind Name:
+
+Last year I did a programming compeition where one of the questions had something called Bytes. Since I couldn't think of a name for this website I decided to go with Byte Quest as you're going on a quest to solve programming problems, or find the bytes. Bellow is problem I am referencing:  
+
+Around the main buildings of the ICPC headquarters lies a vast (deep and dark) forest. Fittingly the forest is crisscrossed by a maze of twisty paths connecting a myriad of small clearings. These paths constitute the only way into headquarters from the outside world. The difficulty of navigating this maze has unfortunately made it impossible to get a high-speed internet connection installed and so the organisation is still dependent on that old-fashioned system affectionately known as ‘snail mail’. Mail is delivered to and collected from a letterbox at a clearing on the outer edge of the forest. Once each day a programmer in headquarters is chosen to do the ‘mail run’. They are required to run from the central headquarters building to the mail box, collect the mail, and run back. It is a matter of honour to do this run as efficiently as possible, in the sense of running the least possible distance. Today, you have been chosen to be the runner and must decide on your route.  
+There is one final detail you need to know. The forest is inhabited by carnivorous little animals called ‘bytes’ – ‘byte’ by name and ‘bite’ by nature. Although they are small, they are ferocious and meeting one that is awake is invariably fatal for a runner. Fortunately, bytes spend most of their time asleep; but when a runner passes, they wake. It takes a moment for a waking byte to orient itself, so the runner that disturbed it can continue safely without fear of attack. However, the byte will remain awake for some time. It won’t move, but it will attack anyone on the path or the clearing it occupies for the remainder of the day. It can be assumed that all bytes are asleep at the time the run starts and it can be assumed that a run is always completed within the day. Therefore, the only safe way to complete a run is to use a route that passes through different clearings and does not use any path twice.
